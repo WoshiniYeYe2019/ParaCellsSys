@@ -1,0 +1,5 @@
+initCellNum=100
+maxCellNum=200
+dT=0.25
+T0=0
+T1=1000
